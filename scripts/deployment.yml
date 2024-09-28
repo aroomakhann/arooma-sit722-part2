@@ -19,7 +19,7 @@ spec:
         env:
         - name: PORT
           value: "3000"
-        - name: DATABASE_URL  # Updated line
+        - name: DATABASE_URL 
           value: "postgresql://arooma_sit722_postgresql_70e2_user:KZemH5x9yxdQsySfT5OzOv5tqcasp1Ni@dpg-crrnf2tds78s73dqks60-a.oregon-postgres.render.com/arooma_sit722_postgresql_70e2"
 ---
 apiVersion: v1
