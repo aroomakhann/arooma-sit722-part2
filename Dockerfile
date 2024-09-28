@@ -1,6 +1,6 @@
 # Dockerfile for book_catalog microservice
 
-# The docker image is of amd64 architecture. I 
+# The docker image is of amd64 architecture. 
 FROM --platform=linux/amd64 python:3.11-slim
 
 # The working directory inside the microservice to app
